@@ -1,0 +1,7 @@
+-- This module is the root of the UnlikelyIntersectionsCanonicalLaneLean Lean proof package.
+import UnlikelyIntersectionsCanonicalLaneLean.Basic
+import UnlikelyIntersectionsCanonicalLaneLean.SourcePackage
+import UnlikelyIntersectionsCanonicalLaneLean.SourceDependencies
+import UnlikelyIntersectionsCanonicalLaneLean.Formalization
+import UnlikelyIntersectionsCanonicalLaneLean.ReviewerBridge
+import UnlikelyIntersectionsCanonicalLaneLean.TheoremStatement
