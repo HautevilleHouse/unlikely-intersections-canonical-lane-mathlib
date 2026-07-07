@@ -64,7 +64,7 @@ structure RegistryConstant where
   sourceSection : String
 deriving Repr, DecidableEq
 
-def sourceCheckoutHead : String := "a6a1049219689905f14732b5fe880f80c51aab47"
+def sourceCheckoutHead : String := "9bad1bd6f62cdef3e289bb9d5a6bd00f1c7309a5"
 def sourceCheckoutClean : Bool := true
 
 def sourceFiles : List SourceFile := [
